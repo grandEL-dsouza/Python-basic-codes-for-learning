@@ -1,3 +1,4 @@
+#problem statement: Check if the user entered number is a prime number or not
 try:
     a = int(input("Enter a number"))
     b=0
