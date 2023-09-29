@@ -1,3 +1,5 @@
+#probelm statement check if a vowel is present in a user entered string
+
 a=input("enter the string")
 b=0
 for i in range (0, len(a)):
