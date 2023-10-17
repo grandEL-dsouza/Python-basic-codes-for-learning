@@ -1,3 +1,5 @@
+# this code is to learn to perform various mathematical operations on Python for two numbers entered by the user
+
 try:
     a = float(input("Enter the first number"))
     b = float(input("Enter the second number"))
