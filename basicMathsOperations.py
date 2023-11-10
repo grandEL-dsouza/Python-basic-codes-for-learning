@@ -12,6 +12,7 @@ try:
     f = a/b
     print(f, "This is the result of division (first number divided with the second)" )
     g = a//b
+    print(g, "This is the Quotient of the division" )
     h = a%b
     print(h, "This is the result of mod (remainder after divison)" )
     i = a**b
